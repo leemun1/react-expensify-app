@@ -4,3 +4,4 @@ notes.md
 yarn-error.log
 .env.test
 .env.development
+capture/
